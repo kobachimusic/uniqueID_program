@@ -1,6 +1,0 @@
-Model/*.dat
-Model/*.pickle
-*.png
-traindata/**/*.jpg
-*.tiff
-*.bmp
